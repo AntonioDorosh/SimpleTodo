@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    min-height: 100vh;
+    box-shadow: 3px 5px 15px 5px #9cc564;
+}
+
+li {
+    list-style: none;
+}
+
+h2 {
+    text-align: center;
+}
